@@ -2,5 +2,6 @@
 
 ref https://github.com/laradock/laradock
 
--  `cd laradocke`
+-  `cd laradock`
 -  `docker-composer up -d nginx mysql`
+-  [localhost](http://localhost/)
